@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {} 
+function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula GitHub Actions - New Workflow test
+          Aula GitHub Actions - test pull request CI
         </p>
         <a
           className="App-link"
